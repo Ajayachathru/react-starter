@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ajayachathru/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Ajayachathru/static/js/main.a316d92c.chunk.js",
+    "main.js.map": "/Ajayachathru/static/js/main.a316d92c.chunk.js.map",
+    "runtime-main.js": "/Ajayachathru/static/js/runtime-main.81f1e569.js",
+    "runtime-main.js.map": "/Ajayachathru/static/js/runtime-main.81f1e569.js.map",
+    "static/js/2.3868d867.chunk.js": "/Ajayachathru/static/js/2.3868d867.chunk.js",
+    "static/js/2.3868d867.chunk.js.map": "/Ajayachathru/static/js/2.3868d867.chunk.js.map",
+    "static/js/3.87a25439.chunk.js": "/Ajayachathru/static/js/3.87a25439.chunk.js",
+    "static/js/3.87a25439.chunk.js.map": "/Ajayachathru/static/js/3.87a25439.chunk.js.map",
+    "index.html": "/Ajayachathru/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Ajayachathru/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.3868d867.chunk.js.LICENSE.txt": "/Ajayachathru/static/js/2.3868d867.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Ajayachathru/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81f1e569.js",
+    "static/js/2.3868d867.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a316d92c.chunk.js"
+  ]
+}
